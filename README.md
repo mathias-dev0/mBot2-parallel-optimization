@@ -30,11 +30,11 @@ The final optimization uses a **Global State Variable** (`leds`).
 
 | Version | Logic Type | Description |
 | :--- | :--- | :--- |
-| **Alpha** | Sequential | [<img width="1061" height="1205" alt="Screenshot 2026-05-09 233657" src="https://github.com/user-attachments/assets/8cbc0f56-95bc-4d0d-9daa-6f38f559c0e3" />
+| **Alpha** | Sequential | [<img width="1605" height="1215" alt="Screenshot 2026-05-09 230143" src="https://github.com/user-attachments/assets/84dad0a4-a53a-40f3-9296-5f8c9c81080e" />
 ] |
-| **Beta** | Message-Based | [<img width="961" height="1088" alt="Screenshot 2026-05-09 234051" src="https://github.com/user-attachments/assets/8d7bfc9d-bd27-404f-a0ea-d014e2c2eab7" />
+| **Beta** | Message-Based | [<img width="1739" height="1168" alt="Screenshot 2026-05-09 231019" src="https://github.com/user-attachments/assets/9e0b6c97-3081-47cc-9bf2-ac931575c098" />
 ] |
-| **Final** | State Variable | [<img width="983" height="1130" alt="Screenshot 2026-05-09 234248" src="https://github.com/user-attachments/assets/b203652d-5cf1-4285-a712-b90d75417f7a" />
+| **Final** | State Variable | [<img width="983" height="1130" alt="Screenshot 2026-05-09 234248" src="https://github.com/user-attachments/assets/59228b17-1a98-4e68-9678-84e7774c5e17" />
 ] |
 
 ---
